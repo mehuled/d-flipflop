@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `d-flipflop blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Mehul Sharma`,
+      summary: `who works as a software engineer and tries to think about everything on first principles.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `A general blog on interesting, underdog projects with high potential in computer science..`,
+    siteUrl: `https://dflipflop.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `mehuled`,
     },
   },
   plugins: [
