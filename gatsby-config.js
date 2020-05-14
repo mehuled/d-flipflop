@@ -6,7 +6,7 @@ module.exports = {
       summary: `who works as a software engineer and tries to think about everything on first principles.`,
     },
     description: `A general blog on interesting, underdog projects with high potential in computer science..`,
-    siteUrl: `https://dflipflop.com/`,
+    siteUrl: `https://blog.dflipflop.com/`,
     social: {
       twitter: `mehuled`,
     },
